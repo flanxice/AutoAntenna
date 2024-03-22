@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AutoAntenna.iml" filepath="$PROJECT_DIR$/.idea/AutoAntenna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AutoMIMO/.idea/AutoMIMO.iml" filepath="$PROJECT_DIR$/../AutoMIMO/.idea/AutoMIMO.iml" />
+    </modules>
+  </component>
+</project>
