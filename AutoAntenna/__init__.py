@@ -4,5 +4,4 @@
 # @File : __init__.py
 # @Software : PyCharm
 
-from .Antenna import ANTENNA_RESET, ANTENNA_SELFTEST, ANTENNA_INIT
-
+from .Antenna import FCODES, BYTES_0_1
